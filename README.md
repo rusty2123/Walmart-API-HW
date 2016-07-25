@@ -18,4 +18,6 @@ I then print the names of the List to console from highest points to lowest poin
 
 
 I have not build any test cases because I had a busy weekend, and I could not get my API key to work while I am in the office.
+I also did not see that there is an entire Review API until I was about to turn it in. I first assumed I had to rank items based
+on their rating and their amount of ratings.
 My project uses Maven and has GSON as a dependency. It runs as a Java console application for simplicity and ease of use.
